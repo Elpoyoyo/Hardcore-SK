@@ -6,22 +6,22 @@
     <workerClass>DubsBadHygiene.ThoughtWorker_Hygiene</workerClass>
     <stages>
       <li>
-        <label>filthy</label>
-        <description>I smell like I have been swimming in sewage.</description>
+        <label>Filthy</label> 
+        <description>I smell like i have been swimming in sewage.</description>
         <baseMoodEffect>-6</baseMoodEffect>
       </li>
       <li>
-        <label>grimy</label>
+        <label>Grimy</label>
         <description>I feel a little grimy.</description>
         <baseMoodEffect>-3</baseMoodEffect>
       </li>
       <li>
-        <label>clean</label>
+        <label>Clean</label>
         <description>I feel fresh and clean.</description>
         <baseMoodEffect>3</baseMoodEffect>
       </li>
       <li>
-        <label>squeaky clean</label>
+        <label>Squeaky Clean</label>
         <description>I'm squeaky clean!</description>
         <baseMoodEffect>6</baseMoodEffect>
       </li>
@@ -33,12 +33,12 @@
     <workerClass>DubsBadHygiene.ThoughtWorker_Bowel</workerClass>
     <stages>
       <li>
-        <label>bursting</label>
+        <label>Bursting</label>
         <description>I need to go so bad I'm about to burst!</description>
         <baseMoodEffect>-6</baseMoodEffect>
       </li>
       <li>
-        <label>need the bathroom</label>
+        <label>Need the bathroom</label>
         <description>I need to go to the bathroom.</description>
         <baseMoodEffect>-3</baseMoodEffect>
       </li>

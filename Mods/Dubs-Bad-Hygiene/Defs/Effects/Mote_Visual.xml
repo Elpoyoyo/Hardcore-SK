@@ -3,7 +3,7 @@
 
   <ThingDef>
     <thingClass>MoteThrown</thingClass>
-    <label>mote</label>
+    <label>Mote</label>
     <category>Mote</category>
     <graphicData>
 	      <texPath>DBH/Things/Mote/FecalBit</texPath>
@@ -25,7 +25,7 @@
 
   <ThingDef Name="BasedMote" Abstract="True">
     <thingClass>MoteThrown</thingClass>
-    <label>mote</label>
+    <label>Mote</label>
     <category>Mote</category>
     <graphicData>
       <graphicClass>Graphic_Mote</graphicClass>

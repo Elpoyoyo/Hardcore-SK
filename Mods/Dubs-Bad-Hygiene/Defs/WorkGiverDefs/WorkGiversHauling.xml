@@ -15,7 +15,7 @@
 
   <WorkGiverDef>
     <defName>DoBillsBurnPit</defName>
-    <label>do burn pit bills</label>
+    <label>do Burn Pit bills</label>
     <giverClass>WorkGiver_DoBill</giverClass>
     <workType>Hauling</workType>
     <priorityInType>40</priorityInType>
@@ -75,7 +75,7 @@
   
   <WorkGiverDef>
     <defName>UnloadComposter</defName>
-    <label>take compost out of composter</label>
+    <label>take compost out of the composter</label>
     <giverClass>DubsBadHygiene.WorkGiver_UnloadComposter</giverClass>
     <workType>Hauling</workType>
     <verb>take compost</verb>
@@ -101,7 +101,7 @@
   
   <WorkGiverDef>
     <defName>emptySepticTank</defName>
-    <label>empty septic tank</label>
+    <label>Empty Septic Tank</label>
     <giverClass>DubsBadHygiene.WorkGiver_emptySepticTank</giverClass>
     <workType>Hauling</workType>
     <verb>empty</verb>
@@ -114,7 +114,7 @@
   
   <WorkGiverDef>
     <defName>emptyLatrine</defName>
-    <label>empty latrine</label>
+    <label>Empty Latrine</label>
     <giverClass>DubsBadHygiene.WorkGiver_emptyLatrine</giverClass>
     <workType>Hauling</workType>
     <verb>empty</verb>
@@ -127,7 +127,7 @@
   
   <WorkGiverDef>
     <defName>RefillTub</defName>
-    <label>refill tub</label>
+    <label>Refill Tub</label>
     <giverClass>DubsBadHygiene.WorkGiver_RefillTub</giverClass>
     <workType>Hauling</workType>
     <verb>refill</verb>
@@ -140,7 +140,7 @@
 
   <WorkGiverDef>
     <defName>RefillWater</defName>
-    <label>refill water</label>
+    <label>Refill Water</label>
     <giverClass>DubsBadHygiene.WorkGiver_RefillWater</giverClass>
     <workType>Hauling</workType>
     <verb>refill</verb>

@@ -218,7 +218,7 @@ Beauty: 2.</description>
 			<Beauty>2</Beauty>
 		</statBases>
 		<costList>
-			<ClayBrick>3</ClayBrick>
+			<ClayBrick>6</ClayBrick>
 		</costList>
 		<researchPrerequisites>
 			<li>FloorArt</li>

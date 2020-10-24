@@ -127,7 +127,6 @@
   <SoundDef>
     <defName>washingmachine</defName>
     <sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -154,7 +153,6 @@
   <SoundDef>
     <defName>sprinklers</defName>
     <sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -181,7 +179,6 @@
   <SoundDef>
     <defName>shower_Ambience</defName>
     <sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -205,10 +202,35 @@
     </subSounds>
   </SoundDef>
 
-  <SoundDef>
+  <!--<SoundDef>
+    <defName>dripping_Ambience</defName>
+    <sustain>True</sustain>
+    <context>MapOnly</context>
+    <eventNames />
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>DBH/drips</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>15</min>
+          <max>15</max>
+        </volumeRange>
+        <distRange>
+          <min>0</min>
+          <max>20</max>
+        </distRange>
+      </li>
+    </subSounds>
+  </SoundDef>-->
+
+	<SoundDef>
 		<defName>sewage_Ambience</defName>  
-		<sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
+		<sustain>True</sustain>  
 		<context>MapOnly</context>
 		<eventNames />  
 		<priorityMode>PrioritizeNearest</priorityMode>  
@@ -237,7 +259,6 @@
   <SoundDef>
     <defName>hottub_Ambience</defName>
     <sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -264,7 +285,6 @@
 	<SoundDef>
 		<defName>plunging</defName>  
 		<sustain>True</sustain>
-    <maxSimultaneous>2</maxSimultaneous>
 		<context>MapOnly</context>		
 		<eventNames />  
 		<priorityMode>PrioritizeNearest</priorityMode>  

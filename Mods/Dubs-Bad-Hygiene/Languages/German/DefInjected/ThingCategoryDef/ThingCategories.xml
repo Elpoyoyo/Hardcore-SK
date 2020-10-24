@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<Waste.label>Fäkalien</Waste.label>
-<BuildingsHygiene.label>Hygiene</BuildingsHygiene.label>
+
+  <Waste.label>Abfall</Waste.label>
+
+
 </LanguageData>
